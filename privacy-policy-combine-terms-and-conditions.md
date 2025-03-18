@@ -337,5 +337,7 @@ The parties agree to make reasonable attempts to resolve all disputes relating t
 (a)	These Terms and Conditions will be governed by and interpreted in accordance with the laws of Queensland, Australia, without giving effect to any principles of conflicts of laws.
 (b)	You agree to the jurisdiction of the courts of Queensland, Australia to determine any dispute arising out of these Terms and Conditions.
 
+If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at admin@kidsconnectingparents.com.
+
 
 
