@@ -1,5 +1,5 @@
 Privacy Policy
-This privacy policy applies to the Kids Connecting Parents app (hereby referred to as "Application") for mobile devices that was created by Frank Zh (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
+This privacy policy applies to the Kids Connecting Parents app (hereby referred to as "Application") for mobile devices that was created by Frank Z (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
 
 
 1	Introduction
@@ -13,11 +13,9 @@ This privacy policy applies to the Kids Connecting Parents app (hereby referred 
 (e)	By accessing the Website or any KIDS CONNECTING PARENTS social media site, purchasing, downloading, creating an account for and/or accessing and/or subscribing to the KIDS CONNECTING PARENTS application, providing us with any material or information, via the Website, any KIDS CONNECTING PARENTS social media site or KIDS CONNECTING PARENTS application, or via email, telephone or otherwise; you are agreeing to the Terms and Conditions, as listed on our Website at that time.
 (f)	We suggest that each time you access our Website you read the Terms and Conditions.
 
-
 2	Definitions
 Customer Data means all text, pictures, photographs, sound, graphics, video, personal information including address details, geolocation data and other data manually input by you into your Account or collected by the KIDS CONNECTING PARENTS application about you as a consequence of your use of the KIDS CONNECTING PARENTS application.
 Moral Rights has the meaning given under the Copyright Act 1968 (Cth) and includes any similar rights existing in other countries.
-
 
 3	Safety and wellbeing
 (a)	You acknowledge and agree that we are not providing medical or mental health care and it is imperative that you work with your general practitioner, psychologist, psychiatrist and other persons in your team of medical professionals to ensure you are adequately cared for. You should seek clearance from your relevant medical care provider to use the Goods and Services, and continue to seek care from your relevant medical and/or mental health care provider whilst using the Goods and Services. You should discontinue use of the Goods and Services immediately if your medical or mental health care provider recommends it or you identify that the Goods and Services are having any detrimental effect on your physical or mental health. .
@@ -26,7 +24,6 @@ Moral Rights has the meaning given under the Copyright Act 1968 (Cth) and includ
 (d)	If you feel another user is violating your own or other’s privacy or confidentiality or is otherwise acting detrimentally to users of the KIDS CONNECTING PARENTS application, or their behaviour is inappropriate or breaches these Terms and Conditions, you must report it immediately by using the “Report a User” button in the KIDS CONNECTING PARENTS application. If you have any serious concerns, including any past or future criminal activity, if there is any urgent need for assistance, or if you feel immediately threatened, please call your local emergency services. 
 (e)	We will provide Goods and Services that arose out of our own grief and loss. You acknowledge and agree that all situations are different. We make no warranty that our Goods and Services will help you to heal from your grief and loss. You acknowledge and agree that we are not liable for any adverse outcome, loss or damage to you or any other person in the event that your use of the KIDS CONNECTING PARENTS application is detrimental to you or any other person.
 (f)	If you feel emotional distress due to your inability to access the Website, any KIDS CONNECTING PARENTS social media site, the KIDS CONNECTING PARENTS application, due to waiting on support to assist with your support request, temporary or permanent deactivation of your account, maintenance or other interruption, you must contact a health care provider.
-
 
 4	Website, Social Media Site, Software and App 
 4.1	Intellectual Property
@@ -162,7 +159,6 @@ You will at all times indemnify and keep indemnified us and our respective offic
 (b)	breach of these Terms and Conditions by you; and
 (c)	publication, distribution or use of the material or information or intellectual property supplied by you, including any and all claims made against the Service Provider by any third party alleging that the Customer Data input by you breaches any law.
 
-
 5	Privacy 
 (a)	By accessing or using our Website, or any KIDS CONNECTING PARENTS social media site; purchasing and/or downloading, creating an account for and/or accessing and/or subscribing to any KIDS CONNECTING PARENTS application; providing us with any material or information, via the Website, KIDS CONNECTING PARENTS social media site or KIDS CONNECTING PARENTS application, or via email, telephone or otherwise; completing any questionnaire, emailing or telephoning us, contacting us via LinkedIn or otherwise communicating with us or engaging us to provide any services, you are consenting to our collection, use, disclosure, retention and protection of your personal information as described in this privacy policy.
 (b)	The personal information we collect may include your name, email address, and other contact details and information for identification purposes. If you pay for any Goods or Services by credit card, debit card, electronic transfer or direct debit from your bank account we will collect your card or bank account details. Importantly, we will collect and share your geolocation data with other users of the app. You consent to this. You may be able to nominate whether this data is shared only while you are using the app or at all times. It is your responsibility to ensure that the app settings align with your preferences. 
@@ -177,13 +173,14 @@ You will at all times indemnify and keep indemnified us and our respective offic
 (ii)	the personal information you voluntarily provide with your informed consent;
 (iii)	personal information about you from other sources, such as a complaint made about you from a fellow user; and
 (iv)	“cookie” based information that makes your use of our Website easier by recording your preferences so that when you return to our Website the “cookie” re-loads that information into your web browser.
-5.3	Why do we use “cookies” and other web use tracking technologies?
-(a)	General information about visits to our Website is collected by our computer servers through “cookies” (small files containing a unique identification (ID) number that our Website transfers to your computer’s hard drive through your Web browser to be stored in the cache of your computer). 
-(b)	The “cookies” that are shared with your computer can’t be used to discover any personal information such as your name, address or email address. The anonymous non-personal information that we collect and analyse via “cookies” is not personal information as described in the Privacy Act.
+5.3	Why do we use “cookies” and other tracking technologies?
+(a)	General information about visits to our Website is collected by our computer servers through “cookies” (small files containing a unique identification (ID) number that our Website transfers to your computer’s hard drive through your Web browser to be stored in the cache of your computer) and other tracking technologies. 
+(b)	The “cookies” that are shared with your computer can’t be used to discover any personal information such as your name, address or email address. The anonymous non-personal information that we collect and analyse via “cookies” and other tracking technologies is not personal information as described in the Privacy Act.
 (c)	We collect information using “cookies” and other tracking technologies for the following reasons:
-(i)	to help us monitor the performance of our Website so that we can improve the operation of the Website and the Goods and Services we provide;
-(ii)	to recognise your computer when you next visit our Website to provide personalised services to each user of our Website to make their navigation through our Website easier and more rewarding to the user; and
-(iii)	to log the internet protocol address (IP address) of visitors to our Website so that we can work out the countries in which the computers are located.
+(i)	to help us monitor the performance of our Website so that we can improve the operation of the Website, any KIDS CONNECTING PARENTS social media site and/or the KIDS CONNECTING PARENTS application, and the Goods and Services we provide;
+(ii)	to recognise your computer or other device when you next visit our Website, any KIDS CONNECTING PARENTS social media site and/or the KIDS CONNECTING PARENTS application, or otherwise utilize our Goods and Services, to provide a personalized and more rewarding experience; and
+(iii)	to log the internet protocol address (IP address) of visitors to our Website, any KIDS CONNECTING PARENTS social media site and/or the KIDS CONNECTING PARENTS application, so that we can work out the geographic locations of the computers or devices; and
+(iv)	to improve marketing and advertising of the KIDS CONNECTING PARENTS application, our company, and our Goods and Services.
 (d)	If you are unhappy about having “cookies” sent to you, you can set your browser to refuse cookies or choose to have your computer warn you each time a cookie is being sent. However, if you turn your cookies off, our Website or some of our services may not function properly.
 5.4	How do we store your information?
 (a)	We use different technologies and procedures to help protect personal information from unauthorised access, loss, alternation, disclosure or use. Some of the safeguards we use are physical access controls, anti-virus software and access authorisation controls to where your personal information is held. Our commitment to data security means:
@@ -195,7 +192,7 @@ You will at all times indemnify and keep indemnified us and our respective offic
 5.5	How long do we keep your personal information?
 Your Customer Data is stored in a cloud database, that is continuously updated. Thus, any Customer Data that you enter into the database whilst connected to the Internet, should be retrievable from the cloud in the event of any loss of Customer Data from your local device. Data limit per customer is 1GB, and your account data will be automatically deleted after a period of 3 years of inactivity. You may elect to delete your Account and any Customer Data at any time if you wish, by clicking the delete button inside the KIDS CONNECTING PARENTS application. This will immediately delete your Account and all of your Customer Data, including from the cloud, and we will no longer store or have any record of it. 
 5.6	What use do we make of your personal information?
-(a)	Provision of goods and services:
+(a)	Provision of Goods and Services:
 (i)	Communicating with you;
 (ii)	Allowing you to communicate with others via the KIDS CONNECTING PARENTS application;
 (iii)	Receiving and processing payments.
@@ -205,8 +202,8 @@ Your Customer Data is stored in a cloud database, that is continuously updated. 
 (iii)	Sending off-risk correspondence.
 (c)	Marketing and consumer analytics:
 (i)	Providing you with information regarding goods and services or events that may be of interest to you;
-(ii)	Improving our goods and services (including contacting you about those improvements and asking you to participate in surveys and reviews about our products and services); and
-(iii)	Marketing and promotional activities by us (including by direct marketing by email, SMS and MMS messages).
+(ii)	Improving our Goods and Services (including contacting you about those improvements and asking you to participate in surveys and reviews about our products and services); and
+(iii)	Marketing and promotional activities by us (including by targeted Meta and Google ads and direct marketing by email, SMS and MMS messages).
 (d)	Events, competitions and promotions, and social media: 
 (i)	Drawing and contacting winners;
 (ii)	Adding entrants to marketing database;
@@ -253,7 +250,6 @@ Your Customer Data is stored in a cloud database, that is continuously updated. 
 (b)	To access this information, you need to email us at Kimberly@kidsconnectingparents.com. 
 (c)	If you are concerned that any personal information held about you is inaccurate, out of date, incomplete, irrelevant or misleading you need to email us at Kimberly@kidsconnectingparents.com and we will take reasonable steps to correct the personal information held about you.
 (d)	If you believe that your personal information has been misused, you need to email us at Kimberly@kidsconnectingparents.com and we will attempt to resolve your complaint. If you are not satisfied with the outcome of your complaint you may refer the matter to the Office of the Australian Information Commissioner (OAIC). Telephone: 1300 363 992. Email: enquiries@oaic.gov.au. OAIC complaints page: http://www.oaic.gov.au/privacy/privacy-complaints
-
 
 6	Goods and Services
 6.1	Software Licence
@@ -319,7 +315,6 @@ any such information or documentation.
 (f)	You acknowledge and agree that we endeavour to select appropriate parties to deliver any third party services, but, subject to the provisions of the ACL, we are not liable for those parties nor for any acts, failures or omissions of such third parties. 
 6.9	Interoperability
 (a)	You are entirely responsible for use of the KIDS CONNECTING PARENTS application, interoperability and management of the interface of the KIDS CONNECTING PARENTS application with any third party software, data stored or used in connection with the KIDS CONNECTING PARENTS application.
-
 
 7	General
 7.1	Waiver
